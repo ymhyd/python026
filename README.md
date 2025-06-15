@@ -1,5 +1,3 @@
-# python026
-python026基于Python+Vue3的音乐管理系统
  
 ## 查看主页获取源码
 
